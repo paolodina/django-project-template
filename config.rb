@@ -9,6 +9,7 @@ javascripts_dir = "frontend/static/frontend/js"
 output_style = :expanded # or :nested or :compact or :compressed
 relative_assets = true
 line_comments = false
+sourcemap = true
 
 sass_options = {
     :debug_info => false

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem 'sass', ">= 3.2.12"
-gem 'compass', "0.12.2"
+gem 'sass', ">= 3.4.7"
+gem 'compass', "1.0.1"
 gem 'bootstrap-sass', "2.3.2.2"  # not 3.x
 
 #gem 'sass-globbing', ">= 1.1.0"
